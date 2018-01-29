@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M64 64h384v384H64z"/>
+    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M224 128v96h-96M224 224l-96-96M288 384v-96h96M288 288l96 96"/>
+</svg>

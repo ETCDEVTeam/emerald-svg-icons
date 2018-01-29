@@ -1,0 +1,17 @@
+{
+  "name": "emerald-svg-icons",
+  "version": "0.1.0",
+  "description": "Emerald SVG icons",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "emerald",
+    "svg",
+    "icons",
+    "ethereum",
+    "classic"
+  ],
+  "author": "gagarin55",
+  "license": "Apache-2.0"
+}

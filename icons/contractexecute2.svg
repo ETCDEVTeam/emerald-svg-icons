@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M128 320H64V64h320v64"/>
+    <circle fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" cx="320" cy="320" r="128"/>
+    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M288 256l64 64-64 64M128 128v32M192 128v32M256 128v32"/>
+</svg>
