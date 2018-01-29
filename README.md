@@ -1,6 +1,6 @@
 ## Emerald SVG icons
 
-<img src="icons/add.svg" style="width: 24px;"/>
+<img src="icons/add.svg" width="24" height="24"/>
 <img src="icons/arrowdown.svg" style="width: 24px;"/>
 <img src="icons/back.svg" style="width: 24px;"/>
 <img src="icons/burger.svg" style="width: 24px;"/>
