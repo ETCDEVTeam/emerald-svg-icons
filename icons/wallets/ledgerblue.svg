@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+    <path fill="#DCDEDF" d="M64 960V128c0-35.346 28.654-64 64-64h768c35.346 0 64 28.654 64 64v832"/>
+    <path fill="#31373A" d="M192 960V192h640v768"/>
+    <g fill="#DCDEDF">
+        <path d="M432 640h32v32h-32zM496 640h32v32h-32zM560 640h32v32h-32zM432 576h32v32h-32zM432 512h32v32h-32zM496 512h96v96h-96z"/>
+    </g>
+</svg>

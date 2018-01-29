@@ -6,6 +6,14 @@
 
 <img src="icons/play.svg" width="24" height="24"/><img src="icons/print.svg" width="24" height="24"/><img src="icons/qrcode.svg" width="24" height="24"/><img src="icons/remove.svg" width="24" height="24"/><img src="icons/search.svg" width="24" height="24"/><img src="icons/settings.svg" width="24" height="24"/><img src="icons/spinner1.svg" width="24" height="24"/><img src="icons/spinner2.svg" width="24" height="24"/><img src="icons/time.svg" width="24" height="24"/><img src="icons/token1.svg" width="24" height="24"/><img src="icons/token2.svg" width="24" height="24"/><img src="icons/token3.svg" width="24" height="24"/><img src="icons/walletadress.svg" width="24" height="24"/><img src="icons/windowed.svg" width="24" height="24"/>
 
+### Wallets
+<img src="icons/wallets/ledgernano.svg" width="48" height="48"/>
+<img src="icons/wallets/ledgerblue.svg" width="48" height="48"/>
+<img src="icons/wallets/trezor.svg" width="48" height="48"/>
+
+### Currencies
+
+
 
 
 
