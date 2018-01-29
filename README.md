@@ -13,6 +13,7 @@
 
 ### Currencies
 
+<img src="icons/currencies/ethereumclassic.svg" width="48" height="48"/><img src="icons/currencies/bitcoin.svg" width="48" height="48"/><img src="icons/currencies/litecoin.svg" width="48" height="48"/><img src="icons/currencies/zcash.svg" width="48" height="48"/><img src="icons/currencies/monero.svg" width="48" height="48"/><img src="icons/currencies/ethereum.svg" width="48" height="48"/>
 
 
 
