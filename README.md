@@ -1,3 +1,25 @@
+## Last update
+
+I had to rename some icons for a better naming system :
+
+burger = menu
+arrow down = arrow_down
+exit = door_enter / door_exit
+fullscreen = fullscreen_expand
+windowed = fullscreen_shrink
+play = play_circle / play_video
+etc_logo = etc / etc_simple
+
+the currencie and wallet icons have a seperate folder.
+
+question: how to "automatic" show all the icons from folders here :)
+
+
+
+
+
+
+
 ## Emerald SVG icons
 
 <img src="icons/add.svg" width="24" height="24"/><img src="icons/arrowdown.svg" width="24" height="24"/><img src="icons/back.svg" width="24" height="24"/><img src="icons/burger.svg" width="24" height="24"/><img src="icons/check1.svg" width="24" height="24"/><img src="icons/check2.svg" width="24" height="24"/><img src="icons/close.svg" width="24" height="24"/><img src="icons/contract.svg" width="24" height="24"/><img src="icons/contractexecute1.svg" width="24" height="24"/><img src="icons/contractexecute2.svg" width="24" height="24"/><img src="icons/contractexecute3.svg" width="24" height="24"/><img src="icons/copytoclipboard.svg" width="24" height="24"/><img src="icons/dashboard.svg" width="24" height="24"/><img src="icons/download.svg" width="24" height="24"/>
