@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M64 64h128v128H64zM320 320h128v128H320zM256 128h128v160"/>
-    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M448 224l-64 64-64-64M256 384H128V224"/>
-    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M64 288l64-64 64 64"/>
-</svg>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>small</title><rect x="8" y="8" width="16" height="16" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/><rect x="40" y="40" width="16" height="16" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/><polyline points="56 28 48 36 40 28" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/><polyline points="8 36 16 28 24 36" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/><polyline points="40 48 16 48 16 28" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/><polyline points="24 16 48 16 48 36" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/></svg>

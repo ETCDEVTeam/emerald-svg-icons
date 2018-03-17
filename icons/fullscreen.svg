@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M64 64h384v384H64z"/>
-    <path fill="none" stroke="#000" stroke-width="28" stroke-miterlimit="10" d="M128 224v-96h96M128 128l96 96M384 288v96h-96M384 384l-96-96"/>
-</svg>
