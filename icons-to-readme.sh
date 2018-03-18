@@ -31,7 +31,7 @@ for folder in *; do
 			iconsbatch="$iconsbatch $icontag"
 
 			relpath="${icon//$folder\/}"
-			icontagrel="| <img src='$relpath' width='48' height='48' /> | ${relpath//.\/} |\n"
+			icontagrel="| <img src='$relpath' width='48' height='48' /> | ${relpath//.\/} |"$'\n'
 			iconsbatchrel="$iconsbatchrel$icontagrel"
 		fi
 	done
