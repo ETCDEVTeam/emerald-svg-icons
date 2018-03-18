@@ -30,13 +30,16 @@ for folder in *; do
 			icontag="<img src='$icon' width='48' height='48'/>"
 			iconsbatch="$iconsbatch $icontag"
 
-			icontagrel="<img src='${icon//$folder\/}' width='48' height='48' />"
-			iconsbatchrel="$iconsbatchrel $icontagrel"
+			relpath="${icon//$folder\/}"
+			icontagrel="| <img src='$relpath' width='48' height='48' /> | ${relpath//.\/} |\n"
+			iconsbatchrel="$iconsbatchrel$icontagrel"
 		fi
 	done
 	# Append to main README.md
 	echo $iconsbatch >> $writefile
 	# Write to each folder's own README
 	# "${firstString/Suzi/$secondString}"
-	echo $iconsbatchrel > ./$folder/README.md
+	echo "| icon | name |" > ./$folder/README.md
+	echo "| --- | --- |" >> ./$folder/README.md
+	echo $iconsbatchrel >> ./$folder/README.md
 done
