@@ -1,12 +1,16 @@
 #!/usr/bin/env bash
 
-declare -a folders=(icons icons_currencies icons_wallets)
 writefile="./README.md"
 
 # Clear output file (*turncate 0)
 > $writefile
 
-for folder in "${folders[@]}"; do
+for folder in *; do
+
+	# If not a folder, don't look for icons inside.
+	if [[ ! -d $folder ]]; then
+		continue
+	fi
 
 	echo "folder: $folder"
 	# write header for the folder
@@ -17,6 +21,7 @@ for folder in "${folders[@]}"; do
 	# this will be one string per icons directory to concatenate all the icon
 	# html tags to avoid line breaks after each tag
 	iconsbatch=""
+	iconsbatchrel="" # for directory/README.md's, because icon paths need to be relative to the dir
 	for icon in "./$folder/"*.svg; do
 		echo "icon: $icon"
 		if [[ -f $icon ]]; then
@@ -24,7 +29,14 @@ for folder in "${folders[@]}"; do
 			# echo "![$file]($file)" >> README.md
 			icontag="<img src='$icon' width='48' height='48'/>"
 			iconsbatch="$iconsbatch $icontag"
+
+			icontagrel="<img src='${icon//$folder\/}' width='48' height='48' />"
+			iconsbatchrel="$iconsbatchrel $icontagrel"
 		fi
 	done
+	# Append to main README.md
 	echo $iconsbatch >> $writefile
+	# Write to each folder's own README
+	# "${firstString/Suzi/$secondString}"
+	echo $iconsbatchrel > ./$folder/README.md
 done

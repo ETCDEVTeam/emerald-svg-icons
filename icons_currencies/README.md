@@ -1,0 +1,1 @@
+<img src='./bitcoin.svg' width='48' height='48' /> <img src='./ethereum.svg' width='48' height='48' /> <img src='./ethereumclassic.svg' width='48' height='48' /> <img src='./litecoin.svg' width='48' height='48' /> <img src='./monero.svg' width='48' height='48' /> <img src='./zcash.svg' width='48' height='48' />
