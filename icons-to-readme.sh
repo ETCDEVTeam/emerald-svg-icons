@@ -22,7 +22,7 @@ for folder in "${folders[@]}"; do
 		if [[ -f $icon ]]; then
 			# <img src="icons/add.svg" width="24" height="24"/>
 			# echo "![$file]($file)" >> README.md
-			icontag="<img src='$icon' width='24' height='24'/>"
+			icontag="<img src='$icon' width='48' height='48'/>"
 			iconsbatch="$iconsbatch $icontag"
 		fi
 	done
