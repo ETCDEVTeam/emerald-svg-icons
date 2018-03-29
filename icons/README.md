@@ -34,6 +34,7 @@
 | <img src='./boxed_export.svg' width='48' height='48' /> | boxed_export.svg |
 | <img src='./boxed_import.svg' width='48' height='48' /> | boxed_import.svg |
 | <img src='./browser.svg' width='48' height='48' /> | browser.svg |
+| <img src='./bulp.svg' width='48' height='48' /> | bulp.svg |
 | <img src='./camera.svg' width='48' height='48' /> | camera.svg |
 | <img src='./chat.svg' width='48' height='48' /> | chat.svg |
 | <img src='./check1.svg' width='48' height='48' /> | check1.svg |
@@ -78,7 +79,6 @@
 | <img src='./etc.svg' width='48' height='48' /> | etc.svg |
 | <img src='./etc_simple.svg' width='48' height='48' /> | etc_simple.svg |
 | <img src='./export.svg' width='48' height='48' /> | export.svg |
-| <img src='./eye.svg' width='48' height='48' /> | eye.svg |
 | <img src='./file.svg' width='48' height='48' /> | file.svg |
 | <img src='./flag.svg' width='48' height='48' /> | flag.svg |
 | <img src='./folder.svg' width='48' height='48' /> | folder.svg |
@@ -95,7 +95,10 @@
 | <img src='./home.svg' width='48' height='48' /> | home.svg |
 | <img src='./image.svg' width='48' height='48' /> | image.svg |
 | <img src='./import.svg' width='48' height='48' /> | import.svg |
+| <img src='./key.svg' width='48' height='48' /> | key.svg |
+| <img src='./keypair.svg' width='48' height='48' /> | keypair.svg |
 | <img src='./layers.svg' width='48' height='48' /> | layers.svg |
+| <img src='./ledger.svg' width='48' height='48' /> | ledger.svg |
 | <img src='./lifebelt.svg' width='48' height='48' /> | lifebelt.svg |
 | <img src='./link.svg' width='48' height='48' /> | link.svg |
 | <img src='./link_broken.svg' width='48' height='48' /> | link_broken.svg |
@@ -173,8 +176,11 @@
 | <img src='./token3.svg' width='48' height='48' /> | token3.svg |
 | <img src='./toolbox.svg' width='48' height='48' /> | toolbox.svg |
 | <img src='./trash.svg' width='48' height='48' /> | trash.svg |
+| <img src='./trezor.svg' width='48' height='48' /> | trezor.svg |
 | <img src='./umbrella.svg' width='48' height='48' /> | umbrella.svg |
 | <img src='./user.svg' width='48' height='48' /> | user.svg |
+| <img src='./view_hidden.svg' width='48' height='48' /> | view_hidden.svg |
+| <img src='./view_visible.svg' width='48' height='48' /> | view_visible.svg |
 | <img src='./walletadress.svg' width='48' height='48' /> | walletadress.svg |
 | <img src='./warning.svg' width='48' height='48' /> | warning.svg |
 | <img src='./waysign.svg' width='48' height='48' /> | waysign.svg |
