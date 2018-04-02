@@ -61,6 +61,13 @@
 | <img src='./copytoclipboard.svg' width='48' height='48' /> | copytoclipboard.svg |
 | <img src='./crop.svg' width='48' height='48' /> | crop.svg |
 | <img src='./crosscursor.svg' width='48' height='48' /> | crosscursor.svg |
+| <img src='./currency_btc.svg' width='48' height='48' /> | currency_btc.svg |
+| <img src='./currency_etc.svg' width='48' height='48' /> | currency_etc.svg |
+| <img src='./currency_eth.svg' width='48' height='48' /> | currency_eth.svg |
+| <img src='./currency_ltc.svg' width='48' height='48' /> | currency_ltc.svg |
+| <img src='./currency_usd.svg' width='48' height='48' /> | currency_usd.svg |
+| <img src='./currency_xmr.svg' width='48' height='48' /> | currency_xmr.svg |
+| <img src='./currency_zec.svg' width='48' height='48' /> | currency_zec.svg |
 | <img src='./dashboard.svg' width='48' height='48' /> | dashboard.svg |
 | <img src='./database.svg' width='48' height='48' /> | database.svg |
 | <img src='./disk.svg' width='48' height='48' /> | disk.svg |
