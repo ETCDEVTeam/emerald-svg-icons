@@ -1,6 +1,12 @@
 | icon | name |
 | --- | --- |
--e | <img src='./add.svg' width='48' height='48' /> | add.svg |
+-e | <img src='./account_add_token.svg' width='48' height='48' /> | account_add_token.svg |
+| <img src='./account_generate.svg' width='48' height='48' /> | account_generate.svg |
+| <img src='./account_generate_from_mnemonic.svg' width='48' height='48' /> | account_generate_from_mnemonic.svg |
+| <img src='./account_import_from_json.svg' width='48' height='48' /> | account_import_from_json.svg |
+| <img src='./account_import_from_mnemonic.svg' width='48' height='48' /> | account_import_from_mnemonic.svg |
+| <img src='./account_import_from_privatekey.svg' width='48' height='48' /> | account_import_from_privatekey.svg |
+| <img src='./add.svg' width='48' height='48' /> | add.svg |
 | <img src='./add_circle.svg' width='48' height='48' /> | add_circle.svg |
 | <img src='./android.svg' width='48' height='48' /> | android.svg |
 | <img src='./apple_command.svg' width='48' height='48' /> | apple_command.svg |
@@ -117,6 +123,7 @@
 | <img src='./hourglass.svg' width='48' height='48' /> | hourglass.svg |
 | <img src='./image.svg' width='48' height='48' /> | image.svg |
 | <img src='./import.svg' width='48' height='48' /> | import.svg |
+| <img src='./json.svg' width='48' height='48' /> | json.svg |
 | <img src='./key.svg' width='48' height='48' /> | key.svg |
 | <img src='./keypair.svg' width='48' height='48' /> | keypair.svg |
 | <img src='./layers.svg' width='48' height='48' /> | layers.svg |
@@ -142,6 +149,7 @@
 | <img src='./method2.svg' width='48' height='48' /> | method2.svg |
 | <img src='./method3.svg' width='48' height='48' /> | method3.svg |
 | <img src='./method4.svg' width='48' height='48' /> | method4.svg |
+| <img src='./mnemonic.svg' width='48' height='48' /> | mnemonic.svg |
 | <img src='./model.svg' width='48' height='48' /> | model.svg |
 | <img src='./model_connection.svg' width='48' height='48' /> | model_connection.svg |
 | <img src='./more_horizontal.svg' width='48' height='48' /> | more_horizontal.svg |
