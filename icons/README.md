@@ -23,6 +23,7 @@
 | <img src='./badge.svg' width='48' height='48' /> | badge.svg |
 | <img src='./ball.svg' width='48' height='48' /> | ball.svg |
 | <img src='./bar_chart.svg' width='48' height='48' /> | bar_chart.svg |
+| <img src='./basket.svg' width='48' height='48' /> | basket.svg |
 | <img src='./battery_100.svg' width='48' height='48' /> | battery_100.svg |
 | <img src='./battery_25.svg' width='48' height='48' /> | battery_25.svg |
 | <img src='./battery_50.svg' width='48' height='48' /> | battery_50.svg |
@@ -31,6 +32,8 @@
 | <img src='./bell.svg' width='48' height='48' /> | bell.svg |
 | <img src='./block.svg' width='48' height='48' /> | block.svg |
 | <img src='./block3d.svg' width='48' height='48' /> | block3d.svg |
+| <img src='./blockchain1.svg' width='48' height='48' /> | blockchain1.svg |
+| <img src='./blockchain2.svg' width='48' height='48' /> | blockchain2.svg |
 | <img src='./bluetooth.svg' width='48' height='48' /> | bluetooth.svg |
 | <img src='./book.svg' width='48' height='48' /> | book.svg |
 | <img src='./box.svg' width='48' height='48' /> | box.svg |
@@ -46,6 +49,7 @@
 | <img src='./browser.svg' width='48' height='48' /> | browser.svg |
 | <img src='./bulp.svg' width='48' height='48' /> | bulp.svg |
 | <img src='./camera.svg' width='48' height='48' /> | camera.svg |
+| <img src='./cart.svg' width='48' height='48' /> | cart.svg |
 | <img src='./chart_downtrend.svg' width='48' height='48' /> | chart_downtrend.svg |
 | <img src='./chart_uptrend.svg' width='48' height='48' /> | chart_uptrend.svg |
 | <img src='./chat.svg' width='48' height='48' /> | chat.svg |
@@ -76,11 +80,17 @@
 | <img src='./copytoclipboard.svg' width='48' height='48' /> | copytoclipboard.svg |
 | <img src='./crop.svg' width='48' height='48' /> | crop.svg |
 | <img src='./crosscursor.svg' width='48' height='48' /> | crosscursor.svg |
+| <img src='./crown.svg' width='48' height='48' /> | crown.svg |
+| <img src='./currency_ada.svg' width='48' height='48' /> | currency_ada.svg |
 | <img src='./currency_btc.svg' width='48' height='48' /> | currency_btc.svg |
+| <img src='./currency_eos.svg' width='48' height='48' /> | currency_eos.svg |
 | <img src='./currency_etc.svg' width='48' height='48' /> | currency_etc.svg |
 | <img src='./currency_eth.svg' width='48' height='48' /> | currency_eth.svg |
 | <img src='./currency_ltc.svg' width='48' height='48' /> | currency_ltc.svg |
+| <img src='./currency_ripple.svg' width='48' height='48' /> | currency_ripple.svg |
 | <img src='./currency_usd.svg' width='48' height='48' /> | currency_usd.svg |
+| <img src='./currency_usdt.svg' width='48' height='48' /> | currency_usdt.svg |
+| <img src='./currency_xlm.svg' width='48' height='48' /> | currency_xlm.svg |
 | <img src='./currency_xmr.svg' width='48' height='48' /> | currency_xmr.svg |
 | <img src='./currency_zec.svg' width='48' height='48' /> | currency_zec.svg |
 | <img src='./dashboard.svg' width='48' height='48' /> | dashboard.svg |
@@ -89,6 +99,7 @@
 | <img src='./display.svg' width='48' height='48' /> | display.svg |
 | <img src='./door_enter.svg' width='48' height='48' /> | door_enter.svg |
 | <img src='./door_exit.svg' width='48' height='48' /> | door_exit.svg |
+| <img src='./door_stairs.svg' width='48' height='48' /> | door_stairs.svg |
 | <img src='./download.svg' width='48' height='48' /> | download.svg |
 | <img src='./drop.svg' width='48' height='48' /> | drop.svg |
 | <img src='./dropdown_arrow_down.svg' width='48' height='48' /> | dropdown_arrow_down.svg |
@@ -104,6 +115,7 @@
 | <img src='./file.svg' width='48' height='48' /> | file.svg |
 | <img src='./filter_grid.svg' width='48' height='48' /> | filter_grid.svg |
 | <img src='./filter_list.svg' width='48' height='48' /> | filter_list.svg |
+| <img src='./fingernail.svg' width='48' height='48' /> | fingernail.svg |
 | <img src='./flag.svg' width='48' height='48' /> | flag.svg |
 | <img src='./folder.svg' width='48' height='48' /> | folder.svg |
 | <img src='./fork.svg' width='48' height='48' /> | fork.svg |
@@ -113,6 +125,10 @@
 | <img src='./fullscreen_shrink.svg' width='48' height='48' /> | fullscreen_shrink.svg |
 | <img src='./fullscreen_shrink_borderless.svg' width='48' height='48' /> | fullscreen_shrink_borderless.svg |
 | <img src='./game.svg' width='48' height='48' /> | game.svg |
+| <img src='./glass_champagne.svg' width='48' height='48' /> | glass_champagne.svg |
+| <img src='./glass_coctail.svg' width='48' height='48' /> | glass_coctail.svg |
+| <img src='./glass_juice.svg' width='48' height='48' /> | glass_juice.svg |
+| <img src='./glass_wine.svg' width='48' height='48' /> | glass_wine.svg |
 | <img src='./globe.svg' width='48' height='48' /> | globe.svg |
 | <img src='./ground_plan.svg' width='48' height='48' /> | ground_plan.svg |
 | <img src='./hardwarewallet.svg' width='48' height='48' /> | hardwarewallet.svg |
@@ -225,10 +241,24 @@
 | <img src='./warning.svg' width='48' height='48' /> | warning.svg |
 | <img src='./waysign.svg' width='48' height='48' /> | waysign.svg |
 | <img src='./waysign2.svg' width='48' height='48' /> | waysign2.svg |
+| <img src='./wifi1.svg' width='48' height='48' /> | wifi1.svg |
+| <img src='./wifi2.svg' width='48' height='48' /> | wifi2.svg |
 | <img src='./windows_layers.svg' width='48' height='48' /> | windows_layers.svg |
 | <img src='./women.svg' width='48' height='48' /> | women.svg |
 | <img src='./women2.svg' width='48' height='48' /> | women2.svg |
 | <img src='./wrench.svg' width='48' height='48' /> | wrench.svg |
+| <img src='./z_1.svg' width='48' height='48' /> | z_1.svg |
+| <img src='./z_10.svg' width='48' height='48' /> | z_10.svg |
+| <img src='./z_11.svg' width='48' height='48' /> | z_11.svg |
+| <img src='./z_12.svg' width='48' height='48' /> | z_12.svg |
+| <img src='./z_2.svg' width='48' height='48' /> | z_2.svg |
+| <img src='./z_3.svg' width='48' height='48' /> | z_3.svg |
+| <img src='./z_4.svg' width='48' height='48' /> | z_4.svg |
+| <img src='./z_5.svg' width='48' height='48' /> | z_5.svg |
+| <img src='./z_6.svg' width='48' height='48' /> | z_6.svg |
+| <img src='./z_7.svg' width='48' height='48' /> | z_7.svg |
+| <img src='./z_8.svg' width='48' height='48' /> | z_8.svg |
+| <img src='./z_9.svg' width='48' height='48' /> | z_9.svg |
 | <img src='./zoom_in.svg' width='48' height='48' /> | zoom_in.svg |
 | <img src='./zoom_out.svg' width='48' height='48' /> | zoom_out.svg |
 
