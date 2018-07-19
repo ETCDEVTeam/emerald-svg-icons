@@ -125,6 +125,8 @@
 | <img src='./fullscreen_shrink.svg' width='48' height='48' /> | fullscreen_shrink.svg |
 | <img src='./fullscreen_shrink_borderless.svg' width='48' height='48' /> | fullscreen_shrink_borderless.svg |
 | <img src='./game.svg' width='48' height='48' /> | game.svg |
+| <img src='./gem1.svg' width='48' height='48' /> | gem1.svg |
+| <img src='./gem2.svg' width='48' height='48' /> | gem2.svg |
 | <img src='./glass_champagne.svg' width='48' height='48' /> | glass_champagne.svg |
 | <img src='./glass_coctail.svg' width='48' height='48' /> | glass_coctail.svg |
 | <img src='./glass_juice.svg' width='48' height='48' /> | glass_juice.svg |
