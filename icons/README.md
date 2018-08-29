@@ -55,6 +55,8 @@
 | <img src='./chat.svg' width='48' height='48' /> | chat.svg |
 | <img src='./check1.svg' width='48' height='48' /> | check1.svg |
 | <img src='./check2.svg' width='48' height='48' /> | check2.svg |
+| <img src='./checkbox.svg' width='48' height='48' /> | checkbox.svg |
+| <img src='./checkbox_checked.svg' width='48' height='48' /> | checkbox_checked.svg |
 | <img src='./checkmark.svg' width='48' height='48' /> | checkmark.svg |
 | <img src='./circle.svg' width='48' height='48' /> | circle.svg |
 | <img src='./circle_split_backslash.svg' width='48' height='48' /> | circle_split_backslash.svg |
@@ -134,6 +136,7 @@
 | <img src='./globe.svg' width='48' height='48' /> | globe.svg |
 | <img src='./ground_plan.svg' width='48' height='48' /> | ground_plan.svg |
 | <img src='./hardwarewallet.svg' width='48' height='48' /> | hardwarewallet.svg |
+| <img src='./hash.svg' width='48' height='48' /> | hash.svg |
 | <img src='./heart.svg' width='48' height='48' /> | heart.svg |
 | <img src='./heart2.svg' width='48' height='48' /> | heart2.svg |
 | <img src='./hexagon_spider_web.svg' width='48' height='48' /> | hexagon_spider_web.svg |
@@ -193,6 +196,8 @@
 | <img src='./print.svg' width='48' height='48' /> | print.svg |
 | <img src='./puzzle.svg' width='48' height='48' /> | puzzle.svg |
 | <img src='./qrcode.svg' width='48' height='48' /> | qrcode.svg |
+| <img src='./radio.svg' width='48' height='48' /> | radio.svg |
+| <img src='./radio_checked.svg' width='48' height='48' /> | radio_checked.svg |
 | <img src='./record.svg' width='48' height='48' /> | record.svg |
 | <img src='./recorder.svg' width='48' height='48' /> | recorder.svg |
 | <img src='./refresh.svg' width='48' height='48' /> | refresh.svg |
