@@ -1,1 +1,1 @@
-<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>small</title><polygon points="32 56 56 52 56 8 32 12 8 8 8 52 32 56" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/><line x1="32" y1="12" x2="32" y2="56" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:4px"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke-width="4px" stroke="#222"><path d="M32 56l24-4V8l-24 4L8 8v44l24 4zM32 12v44"/></svg>

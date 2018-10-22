@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="48,48 28,48 28,40 48,40 "/>
-<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="48,40 32,40 32,32 48,32 "/>
-<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="48,32 36,32 36,24 48,24 "/>
-<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="24,56 24,48 48,48 "/>
-<rect x="16" y="8" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="32" height="48"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke-width="4px" stroke="#222"><path d="M48 48H28v-8h20M48 40H32v-8h16M48 32H36v-8h12M24 56v-8h24"/><path d="M16 8h32v48H16z"/></svg>

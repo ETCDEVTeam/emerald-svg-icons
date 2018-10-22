@@ -1,17 +1,13 @@
 {
   "name": "emerald-svg-icons",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Emerald SVG icons",
-  "main": "index.js",
-  "scripts": {
-  },
-  "keywords": [
-    "emerald",
-    "svg",
-    "icons",
-    "ethereum",
-    "classic"
-  ],
-  "author": "gagarin55",
-  "license": "Apache-2.0"
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": { "type": "git", "url": "git+https://github.com/ETCDEVTeam/emerald-svg-icons.git" },
+  "keywords": [ "emerald", "svg", "icons", "ethereum", "classic" ],
+  "author": "Richard Schumann <schumanncombo@gmail.com> (http://schumanncombo.com)",
+  "license": "Apache-2.0",
+  "bugs": { "url": "https://github.com/ETCDEVTeam/emerald-svg-icons/issues" },
+  "homepage": "https://github.com/ETCDEVTeam/emerald-svg-icons/examples"
 }

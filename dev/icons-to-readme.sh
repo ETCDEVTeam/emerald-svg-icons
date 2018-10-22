@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-writefile="./README.md"
+writefile="./EXAMPLES.md"
 
 # Clear output file (*turncate 0)
 > $writefile
